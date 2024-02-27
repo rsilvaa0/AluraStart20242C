@@ -1,6 +1,10 @@
+body{
+   font-family: 'Poppins',sans-serif;
+}
+
 header {
  background-color: rgb(0, 0, 0);
- color: rgb(224, 149, 214);
+ color: rgb(241, 101, 223);
 
 }
 
@@ -9,10 +13,13 @@ header {
   width: 20%;
 }
 .cabecalho {
-   background-color: rgb(235, 164, 223);
+   background-color: rgb(253, 97, 227);
 color: black;
   display: flex;
+  justify-content: space-around;
 }
 .cabecalho-lista-item {
+
+  display: inline-block;
 
 }
